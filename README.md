@@ -1,6 +1,6 @@
 # eketang-invasion - 希沃易课堂辅助学习工具
 
-
+[![QQ群](https://img.shields.io/badge/QQ群-1056077905-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/1056077905)
 ## 项目简介
 
 **eketang-invasion** 是一款基于希沃易课堂学生空间App设计的辅助学习工具。
